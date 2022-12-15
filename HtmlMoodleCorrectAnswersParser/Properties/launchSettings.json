@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HtmlMoodleCorrectAnswersParser": {
+      "commandName": "Project",
+      "commandLineArgs": "-f awscsexam.html",
+      "workingDirectory": "S:\\FedorV\\Projects"
+    }
+  }
+}
